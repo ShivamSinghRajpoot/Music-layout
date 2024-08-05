@@ -1,0 +1,159 @@
+
+body{
+    display:flex;
+    justify-content:center;
+    align-item:center;
+    min-height:100vh;
+    background: black;
+    
+}
+
+
+
+.mobile-body{
+ display:;
+    justify-content:center;
+    align-item:center;
+    background-color: inherit;
+    width:400px;
+    height:650px;
+    margin-top:10px;
+    margin-bottom:px;
+    margin-left:5px;
+    margin-right:4px;
+    border-top-left-radius:50px;
+    border-top-right-radius:50px;
+    border-bottom-left-radius:50px;
+    border-bottom-right-radius:50px;
+    border:4px double grey;
+    margin:0;
+    position: relative;
+    }
+
+
+/* upper function */
+.upper-function{
+    background-color:#1b1b1b;
+    width:200px;
+    height:30px;
+    border-radius:12px;
+    margin-top:5px;
+    border:1px solid grey;
+    position: absolute;
+    top:0%;
+    left:50%;
+    transform: translateX(-50%);
+    }
+    
+    
+    
+   .photo{
+       postion:relative;
+       width:100px;
+       height:100px;
+       border:1px solid grey;
+       border-radius:50%;
+       margin-top:25px;
+       
+   } 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .music{
+        background: transparent;
+        width:300px;
+        height:150px;
+        position: absolute;
+        top:30%;
+        left:50%;
+        transform: translateX(-50%);
+        border-radius:25px;
+        border:0.5px solid grey;
+        backdrop-filter:blur(5px);
+        display: flex;
+        align-item: center;
+        justify-content: center;
+        text-align: center;
+        
+    
+         }
+         
+        
+        
+        /* pre button */
+        .arrange{
+        width:200px;
+        height:10px;
+        border:none;
+        text-align: center;
+        padding:10px;
+        position: absolute;
+        top:60%;
+        left:50%;
+        transform: translateX(-50%);
+         }
+         
+         
+         #slide{
+             postion:absolute;
+             bottom:0%;
+             left:50%;
+             width:200px;
+             padding:px;
+             
+         }
+         h2{
+         color:white;
+         padding:;
+         margin:;
+         position: absolute;
+         top:0%;
+         left:2%;
+         border:1px solid grey;
+         border-style: outset;}
+             
+             
+             
+             .links{
+                 border:none;
+                 position: absolute;
+                 top:60%;
+                 color:white;
+                 left:50%;
+                 width:200px;
+                 transform: translateX(-50%);
+                 font-size:20px;
+                 
+                 
+             }
+             .horizontal{
+                 display:flex;
+                list-style:none;
+                
+             }
+             .horizontal li{
+                 margin-right:100px;
+             }
+          
+         
+
+        
+        
+       
+            
+
+
+
+
+
+
+
+
+  
+        
